@@ -616,8 +616,8 @@ reports = ["lxml"]
 
 [[package]]
 name = "mypy-boto3-appconfig"
-version = "1.23.0.post1"
-description = "Type annotations for boto3.AppConfig 1.23.0 service generated with mypy-boto3-builder 7.5.14"
+version = "1.24.0"
+description = "Type annotations for boto3.AppConfig 1.24.0 service generated with mypy-boto3-builder 7.6.1"
 category = "dev"
 optional = false
 python-versions = ">=3.6"
@@ -1101,7 +1101,7 @@ pydantic = ["pydantic", "email-validator"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.6.2"
-content-hash = "2e80fd14c2c6a463a568775c152ac18435968a68b12a1c3b3d0aefc21ed0d42c"
+content-hash = "fac69fc0ba21fac94a8d9ae777d9818b06d8051f2f1f3c598d462c1a55eadae8"
 
 [metadata.files]
 atomicwrites = [
@@ -1430,8 +1430,8 @@ mypy = [
     {file = "mypy-0.961.tar.gz", hash = "sha256:f730d56cb924d371c26b8eaddeea3cc07d78ff51c521c6d04899ac6904b75492"},
 ]
 mypy-boto3-appconfig = [
-    {file = "mypy-boto3-appconfig-1.23.0.post1.tar.gz", hash = "sha256:78442ffc2850a5234f72a4c2b3d5eeae87e3e1cc67e689bb3bee33e35cbb31a9"},
-    {file = "mypy_boto3_appconfig-1.23.0.post1-py3-none-any.whl", hash = "sha256:a3175229be86dc1aab8722a6338086ddcf941a61d1dd791344b8654b01075bfa"},
+    {file = "mypy-boto3-appconfig-1.24.0.tar.gz", hash = "sha256:3bb38c2819b78c72fd9c031058edf5e547ad549d58e052928a4f397823a51dbd"},
+    {file = "mypy_boto3_appconfig-1.24.0-py3-none-any.whl", hash = "sha256:ca53b0b9606f13257dd0feb800d36531f2eba54f46bd9db7765f69baf9583485"},
 ]
 mypy-boto3-dynamodb = [
     {file = "mypy-boto3-dynamodb-1.23.0.post1.tar.gz", hash = "sha256:4670825645d041881f3f37a70b38e4b771171942808e49a011a63a9ea6cf494c"},
